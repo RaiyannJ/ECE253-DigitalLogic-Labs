@@ -13,11 +13,3 @@ Lab 4: Gated D-Latch, Sequential ALU with active high-synch registers (D flip-fl
 Lab 5: 4-bit counter (T flip-flops), HEX counter with rate divider, morse code encoder
 
 Lab 6: Basic Finite State Machine (FSM), ALU with control path and data path, long division ALU
-
-The last few labs were done in RISC-V Assembly, covering the basic, yet essential topics in architecture.
-
-Lab 7: Sum of the list, Longest string of 1s in a word
-
-Lab 8: Longest strings of 1s from a list of words, 32-bit unsigned number bubble sort
-
-Lab 9: Polling and Interrupts
